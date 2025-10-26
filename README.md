@@ -21,6 +21,7 @@ After completing this project, you will be able to:
 
 The dataset used is provided by IBM:  
 `https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DA0101EN-SkillsNetwork/labs/Data%20files/automobileEDA.csv`
+or data/automobileEDA.csv
 
 It includes variables such as:
 - **Length**
