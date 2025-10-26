@@ -1,0 +1,42 @@
+# ===============================
+#  🚗 Car Price Analysis Project
+#  Author: Denis Naumov
+# ===============================
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+.env
+.venv/
+venv/
+env/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# --- Data ---
+data/*.csv
+data/*.xlsx
+data/*.xls
+*.log
+*.tmp
+*.dat
+
+# --- macOS / System ---
+.DS_Store
+*.swp
+*.swo
+Thumbs.db
+
+# --- IDEs / Editors ---
+.vscode/
+.idea/
+*.code-workspace
